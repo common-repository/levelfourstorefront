@@ -1,0 +1,5 @@
+<cross-domain-policy>
+  <!--LIVE STOREFRONT - PLACE YOUR DOMAIN BELOW -->
+  <!--REGARDLESS IF STOREFRONT IS IN A SUBFOLDER, THIS CROSSDOMAIN.XML FILE MUST BE IN THE ROOT OF YOUR WEBSITE-->
+  <allow-access-from domain="*" />
+</cross-domain-policy>
